@@ -8,7 +8,7 @@ Greetings,
 David
 
 
-## Frontend engineers
+## Frontend engineers
 
 https://github.com/DeedMob/frontend-engineer-challenge
 
