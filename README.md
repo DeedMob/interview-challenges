@@ -1,3 +1,5 @@
+# [DEPRECATED] These are not in use anymore
+
 # Deedmob interview challenges
 
 Welcome to the Deedmob coding challenges page!
